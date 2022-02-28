@@ -1,1 +1,1 @@
-# Tugas-Algoritma-dan-Struktur-Data-TC122G
+# Algoritma-dan-Struktur-Data-TC122G
